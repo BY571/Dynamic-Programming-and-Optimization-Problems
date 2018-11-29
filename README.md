@@ -3,7 +3,7 @@
 [image1]: ./Img/1.png 
 [image2]: ./Img/2.png 
 [image3]: ./Img/3.png
-[image3]: ./Img/4.png
+[image4]: ./Img/4.png
 
 
 ## Project 1: Traveling Salesman Problem [TSP]
